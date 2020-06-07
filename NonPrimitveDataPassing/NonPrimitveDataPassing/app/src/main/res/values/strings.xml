@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NonPrimitveDataPassing</string>
+    <string name="main_to_sec">Go to Second Activity</string>
+    <string name="sec_to_main">Go to Main Activity</string>
+    <string name="name">Name : </string>
+    <string name="roll_num">Roll No. : </string>
+    <string name="sub">Subjects : </string>
+    <string name="passed_data">Passed Data</string>
+</resources>
